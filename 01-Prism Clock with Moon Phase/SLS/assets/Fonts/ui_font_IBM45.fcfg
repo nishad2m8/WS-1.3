@@ -1,0 +1,16 @@
+{
+  "codename": "IBM45",
+  "ttf_path": "/assets/Fonts/IBMPlexMono-SemiBold.ttf",
+  "bin_path": "/assets/Fonts/ui_font_IBM45.bin",
+  "c_path": "/assets/Fonts/ui_font_IBM45.c",
+  "cfg_path": "/assets/Fonts/ui_font_IBM45.fcfg",
+  "size": 45,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
