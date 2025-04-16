@@ -268,7 +268,7 @@ void updateMoonPhaseData() {
     
     String currentDate = getCurrentDateFormatted();
     String currentTime = getCurrentTime24hr();
-    String location = "Dubai"; // Default location - change as needed
+    String location = "Earth !"; // Default location - change as needed
     
     Serial.println("DEBUG: Updating moon phase data");
     Serial.print("Current date: ");
